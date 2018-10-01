@@ -1,0 +1,2 @@
+# Polygons-Identification
+A program that will extract and analyse the various characteristics of (simple) polygons, their contours being coded and stored in a file, and either display those characteristics: perimeter, area, convexity, number of rotations that keep the polygon invariant, and depth (the length of the longest chain of enclosing polygons) – or output some Latex code, to be stored in a file, from which a pictorial representation of the polygons can be produced, coloured in a way which is proportional to their area.
